@@ -1,3 +1,4 @@
+tap "asmvik/formulae"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
 # Console Matrix
@@ -32,6 +33,8 @@ brew "unar"
 brew "wget"
 # UNIX shell (command interpreter)
 brew "zsh"
+# Simple hotkey-daemon for macOS.
+brew "asmvik/formulae/skhd"
 # Office suite
 cask "microsoft-office"
 # Finder Toolbar app to open the current directory in Terminal or Editor
