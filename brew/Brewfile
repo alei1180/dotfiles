@@ -5,6 +5,8 @@ brew "bat"
 brew "cmatrix"
 # Play, record, convert, and stream select audio and video codecs
 brew "ffmpeg"
+# Banner-like program prints strings as ASCII art
+brew "figlet"
 # Distributed revision control system
 brew "git"
 # Render markdown on the CLI
@@ -35,9 +37,9 @@ brew "wget"
 brew "zsh"
 # Simple hotkey-daemon for macOS.
 brew "asmvik/formulae/skhd"
-# Office suite
 # Web browser
 cask "google-chrome"
+# Office suite
 cask "microsoft-office"
 # Finder Toolbar app to open the current directory in Terminal or Editor
 cask "openinterminal"
@@ -55,6 +57,7 @@ vscode "davidanson.vscode-markdownlint"
 vscode "docker.docker"
 vscode "donjayamanne.python-environment-manager"
 vscode "eamodio.gitlens"
+vscode "editorconfig.editorconfig"
 vscode "evilbeaver.oscript-debug"
 vscode "github.copilot-chat"
 vscode "github.vscode-github-actions"
@@ -78,5 +81,6 @@ vscode "njpwerner.autodocstring"
 vscode "redhat.vscode-xml"
 vscode "redhat.vscode-yaml"
 vscode "shd101wyy.markdown-preview-enhanced"
+vscode "subframe7536.custom-ui-style"
 vscode "tamasfe.even-better-toml"
 vscode "yzane.markdown-pdf"
