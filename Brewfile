@@ -36,9 +36,15 @@ brew "zsh"
 # Simple hotkey-daemon for macOS.
 brew "asmvik/formulae/skhd"
 # Office suite
+# Web browser
+cask "google-chrome"
 cask "microsoft-office"
 # Finder Toolbar app to open the current directory in Terminal or Editor
 cask "openinterminal"
+cask "telegram"
+# Open-source code editor
+cask "visual-studio-code"
+# Unpacks archive files
 vscode "1c-syntax.language-1c-bsl"
 vscode "arjun.swagger-viewer"
 vscode "aykutsarac.jsoncrack-vscode"
